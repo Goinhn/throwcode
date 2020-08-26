@@ -36,7 +36,7 @@ public class InsertionSort {
 
         for (int i = 1; i < arr.length; i++) {
             for (int j = i; j > 0 && arr[j] < arr[j - 1]; j--) {
-                swag(arr, j - 1, j);
+                swap(arr, j - 1, j);
             }
         }
     }
@@ -48,10 +48,10 @@ public class InsertionSort {
      * @param x
      * @param y
      */
-    public static void swag(int[] arr, int x, int y) {
-        arr[x] = arr[x] ^ arr[y];
-        arr[y] = arr[x] ^ arr[y];
-        arr[x] = arr[x] ^ arr[y];
+    public static void swap(int[] arr, int x, int y) {
+        int temp = arr[x];
+        arr[x] = arr[y];
+        arr[y] = temp;
     }
 
 }

@@ -36,7 +36,7 @@ public class BubbleSort {
         for (int i = arr.length - 1; i > 0; i--) {
             for (int j = 0; j < i; j++) {
                 if (arr[j] > arr[j + 1]) {
-                    swag(arr, j, j + 1);
+                    swap(arr, j, j + 1);
                 }
             }
         }
@@ -49,10 +49,10 @@ public class BubbleSort {
      * @param x
      * @param y
      */
-    public static void swag(int[] arr, int x, int y) {
-        arr[x] = arr[x] ^ arr[y];
-        arr[y] = arr[x] ^ arr[y];
-        arr[x] = arr[x] ^ arr[y];
+    public static void swap(int[] arr, int x, int y) {
+        int temp = arr[x];
+        arr[x] = arr[y];
+        arr[y] = temp;
     }
 
 }
