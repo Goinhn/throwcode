@@ -1,4 +1,4 @@
-package algorithm.basic.datastructure;
+package algorithm.basic.datastructure.stacklisthashtable;
 
 import java.util.ArrayList;
 import java.util.List;
