@@ -81,7 +81,7 @@ public class HeapSort {
     public static void heapify(int[] arr, int index, int end) {
         int left = index * 2 + 1;
         while (left < end) {
-            int largest = left + 1 < end && arr[left] > arr[left + 1] ? left : left + 1;
+            int largest = left + 1 < end && arr[left] < arr[left + 1] ? left + 1 : left;
             largest = arr[index] > arr[largest] ? index : largest;
 
             // 最大值已经是为头结点则已经堆化完成
