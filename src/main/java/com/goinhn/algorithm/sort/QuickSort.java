@@ -235,7 +235,7 @@ public class QuickSort {
             }
 
             // 随机选择标志位，和最后一个位置的数进行对换
-            swap(arr, r, (int) Math.random() * (r - l + 1) + l);
+            swap(arr, r, (int) (Math.random() * (r - l + 1)) + l);
             int[] equalSeparates = searchSwap(arr, l, r);
             quickSort(arr, l, equalSeparates[0] - 1);
             quickSort(arr, equalSeparates[1] + 1, r);
@@ -252,7 +252,7 @@ public class QuickSort {
 //            // 设置标志的位置，统一将标志位设置为数组的最后一个数
 //            int num = arr[r];
 //            int less = l - 1;
-//            int more = r + 1;
+//            int more = r;
 //            int current = l;
 //
 //            while (current < more) {
