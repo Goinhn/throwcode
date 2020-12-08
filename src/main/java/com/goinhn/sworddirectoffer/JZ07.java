@@ -8,10 +8,10 @@ package com.goinhn.sworddirectoffer;
  * @author goinhn
  * @date 2020-12-04T12:15:42
  */
-public class Fibonacci {
+public class JZ07 {
 
     public static void main(String[] args) {
-        System.out.println(new Fibonacci().fibonacci(Integer.MAX_VALUE));
+        System.out.println(new JZ07().fibonacci(Integer.MAX_VALUE));
     }
 
     /**

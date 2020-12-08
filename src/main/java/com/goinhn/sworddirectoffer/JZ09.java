@@ -19,7 +19,7 @@ package com.goinhn.sworddirectoffer;
  * @author goinhn
  * @date 2020-12-04T15:22:13
  */
-public class NewJumpFloor {
+public class JZ09 {
 
     public int jumpFloor(int n) {
 //        移位运算符更快

@@ -18,7 +18,7 @@ package com.goinhn.sworddirectoffer;
  * @author goinhn
  * @date 2020-12-04T14:06:17
  */
-public class JumpFloor {
+public class JZ08 {
 
     public int jumpFloor(int n) {
         if (n < 1) {
