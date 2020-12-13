@@ -17,7 +17,7 @@ package com.goinhn.sworddirectoffer;
  * @author goinhn
  * @date 2020-12-04T18:50:09
  */
-public class Power {
+public class JZ12 {
 
     public static double power(double base, int exponent) throws IllegalArgumentException {
 //        如果底数为0，且指数为负数，则抛出异常

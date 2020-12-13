@@ -13,7 +13,7 @@ import java.util.Stack;
  * @author goinhn
  * @date 2020-12-05T00:02:31
  */
-public class IsPopOrder {
+public class JZ21 {
 
     public boolean IsPopOrder(int[] pushA, int[] popA) {
         if (pushA == null || popA == null || pushA.length == 0 || popA.length == 0) {
@@ -30,7 +30,7 @@ public class IsPopOrder {
             }
         }
 
-        return stack.empty();
+        return stack.isEmpty();
     }
 
 
