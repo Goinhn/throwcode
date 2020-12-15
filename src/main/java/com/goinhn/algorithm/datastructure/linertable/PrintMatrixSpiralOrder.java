@@ -1,4 +1,4 @@
-package com.goinhn.algorithm.datastructure.stacklisthashtable;
+package com.goinhn.algorithm.datastructure.linertable;
 
 import java.util.ArrayList;
 import java.util.List;

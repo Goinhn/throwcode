@@ -1,4 +1,4 @@
-package com.goinhn.algorithm.datastructure.stacklisthashtable;
+package com.goinhn.algorithm.datastructure.linertable;
 
 /**
  * <p>
