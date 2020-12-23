@@ -12,7 +12,7 @@ import java.util.Stack;
  * @author goinhn
  * @date 2020-09-17T14:54:56
  */
-public class AfterOrder {
+public class PostOrder {
 
     /**
      * 后序遍历递归版本
