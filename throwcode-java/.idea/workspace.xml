@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a74f7c7-3338-452d-aca1-d95889cedd6e" name="Default Changelist" comment="BFS&amp;&amp;DFS min&amp;&amp;max depth">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/MaxGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/NetherlandsFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/SmallSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/graph/DijkstraCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/hash/RandomHashPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/hash/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/ArrayToStackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/CatDogQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/CopyLinkedListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/FindOneLessValueIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/IsPalindromeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/PrintCommonsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/SmallerEqualBiggerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/StackAndQueueConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/hashtable/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/hashtable/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/hashtable/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseNodesInKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/linkedlist/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/queue/ImplementStackUsingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/queue/JavaPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/queue/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/queue/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/stack/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/stack/ImplementQueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/linertable/stack/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/summary/DataStorageMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/PrecursorSuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/ValidateBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/traversetree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/traversetree/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/traversetree/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/traversetree/PreInPostTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/datastructure/tree/traversetree/PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/greedy/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/greedy/LemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/linkedalg/DeleteToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/linkedalg/FindToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/linkedalg/MergeLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/linkedalg/ReverseLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/linkedalg/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/pruning/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/pruning/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/recursion/PowxN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/recursion/WalkTheMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/search/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/search/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/sort/TestSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/BracketsDeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/KmpAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/PublicPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/algorithm/stringalg/TransStringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/CAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/ObjectMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/RunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/concurrent/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200407_netease/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200407_netease/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200408_china_merchants_bank/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200408_china_merchants_bank/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200412_netease/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200412_netease/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200416_meituan/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200416_meituan/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200416_meituan/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200426_tencent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200426_tencent/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200426_tencent/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200426_tencent/Main_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200503_bytedance/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200503_bytedance/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200503_bytedance/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200909_bytedance/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200909_bytedance/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200909_bytedance/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200909_bytedance/Main_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200910_zet/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200910_zet/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200912_haoweilai/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200914_baidu/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200914_baidu/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200914_langchao/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200914_langchao/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200916_huawei/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200916_huawei/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200917_jingdong/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200917_jingdong/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_duxiaoman/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_duxiaoman/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_leqi/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_meituan/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_meituan/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_meituan/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200920_meituan/Main_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_tailong/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_tailong/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_tailong/hanoi/HanoiHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_tailong/hanoi/HanoiMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_wuduan/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200921_wuduan/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200923_qushi/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200924_qunaer/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200924_qunaer/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200924_shuiyou/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200925_zhaoyinwangluokeji/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200926_baidu/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200926_pinduoduo/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20200929_wps/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201009_haier/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201009_haier/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201009_yonghang/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201009_yonghang/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201010_hengsheng/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201010_pinduoduo/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201012_zhoayinwangluokeji/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201013_hengtai/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201013_xiecheng/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201013_xiecheng/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201016_shiyuangufen/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201016_shiyuangufen/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201016_suning/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201018_qianxin/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201018_qianxin/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201019_xinhuasan/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201019_xinhuasan/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201021_kujiale/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/_2020/_20201021_kujiale/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/interview/inputoutput/Main_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/niuke/huawei/test1088888/Main_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/niuke/huawei/test1088888/Main_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/niuke/huawei/test1088888/Main_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/niuke/huawei/test710802/Main_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/niuke/huawei/test710802/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/saima/StockGod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/JZ66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/sworddirectoffer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goinhn/test/ExtDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/MaxGap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/NetherlandsFlag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/SmallSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/graph/DijkstraCity$City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/graph/DijkstraCity$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/graph/DijkstraCity$Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/graph/DijkstraCity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/hash/RandomHashPool$Pool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/hash/RandomHashPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/hash/UnionFind$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/hash/UnionFind$UnionFindSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/hash/UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/ArrayToStackQueue$ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/ArrayToStackQueue$ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/ArrayToStackQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue$DogCatQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue$Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue$PetEnterQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CatDogQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CopyLinkedListWithRandom$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/CopyLinkedListWithRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/FindNumInSortedMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/FindOneLessValueIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/GetMinStack$MyStack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/GetMinStack$MyStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/GetMinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/IsPalindromeStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/IsPalindromeStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/PrintCommonsLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/PrintCommonsLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/PrintMatrixSpiralOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/RotateMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/SmallerEqualBiggerLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/SmallerEqualBiggerLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/StackAndQueueConvert$TwoQueueStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/StackAndQueueConvert$TwoStackQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/StackAndQueueConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/ZigZagPrintMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/hashtable/ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/hashtable/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/hashtable/ValidAnagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycle$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycleII$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/LinkedListCycleII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseList$DoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseNodesInKGroup$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/ReverseNodesInKGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/SwapNodesInPairs$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/linkedlist/SwapNodesInPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/ImplementStackUsingQueues$MyStackDoubleQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/ImplementStackUsingQueues$MyStackSingleQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/ImplementStackUsingQueues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/JavaPriorityQueue$KthLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/JavaPriorityQueue$KthLargestMiniHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/JavaPriorityQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/SlidingWindowMaximum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/TopKFrequentWords$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/queue/TopKFrequentWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/stack/BackspaceStringCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/stack/ImplementQueueUsingStacks$MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/stack/ImplementQueueUsingStacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/linertable/stack/ValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/summary/DataStorageMethod$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/summary/DataStorageMethod$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/summary/DataStorageMethod$TreeNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/summary/DataStorageMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/BinaryTreeLevelOrderTraversal$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/BinaryTreeLevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinarySearchTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/LowestCommonAncestorOfABinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/MaximumDepthOfBinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/MaximumDepthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/MinimumDepthOfBinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/MinimumDepthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/PrecursorSuccessorNode$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/PrecursorSuccessorNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/PrintBinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/PrintBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/SerializeAndReconstructTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/SerializeAndReconstructTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/ValidateBinarySearchTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/ValidateBinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/InOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/PostOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/PreInPostTraversal$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/PreInPostTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/datastructure/tree/traversetree/PreOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/greedy/BestTimeToBuyAndSellStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/greedy/LemonadeChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/DeleteToTail$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/DeleteToTail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/FindToTail$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/FindToTail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/MergeLinked$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/MergeLinked.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/ReverseLinked$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/ReverseLinked.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/TwoSum$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/linkedalg/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/pruning/GenerateParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/pruning/NQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/recursion/PowxN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/recursion/WalkTheMaze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/BFS$BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/BFS$Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/BFS$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/DFS$BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/DFS$Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/DFS$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/search/DFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/BucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/QuickSort$ClassicQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/QuickSort$NewQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/QuickSort$RandomQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/sort/TestSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/BracketsDeep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/KmpAlg$KmpOfficial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/KmpAlg$MyTry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/KmpAlg$ViolenceLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/KmpAlg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/Palindrome$LongestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/Palindrome$LongestPalindromeSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/Palindrome$LongestPalindromeSubSeq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/Palindrome$VerifyPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/PublicPrefix$JavaGuide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/PublicPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/ReplaceSpace$ApiReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/ReplaceSpace$ManualReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/ReplaceSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/algorithm/stringalg/TransStringToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/CAS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/CallableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/FileDownload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/ObjectMemory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/RunnableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/concurrent/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200407_netease/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200408_china_merchants_bank/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200412_netease/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200412_netease/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200416_meituan/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200416_meituan/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200426_tencent/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200426_tencent/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200426_tencent/Main_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200503_bytedance/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200503_bytedance/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200503_bytedance/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_1$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_3$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_4$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200909_bytedance/Main_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200910_zet/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200910_zet/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200912_haoweilai/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200914_baidu/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200914_baidu/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200914_langchao/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200914_langchao/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200916_huawei/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200916_huawei/Main_2$Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200916_huawei/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200917_jingdong/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200917_jingdong/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_duxiaoman/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_duxiaoman/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_leqi/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_meituan/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_meituan/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_meituan/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200920_meituan/Main_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_tailong/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_tailong/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_tailong/hanoi/HanoiHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_tailong/hanoi/HanoiMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_wuduan/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200921_wuduan/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200923_qushi/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200924_qunaer/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200924_qunaer/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200924_shuiyou/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200925_zhaoyinwangluokeji/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200926_baidu/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200926_pinduoduo/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200927_weizhongyinhang/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200929_wps/Main_1$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20200929_wps/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201009_haier/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201009_haier/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201009_yonghang/Main_1$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201009_yonghang/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201009_yonghang/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201010_hengsheng/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201010_pinduoduo/Main_1$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201010_pinduoduo/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201011_58tongcheng/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201012_zhoayinwangluokeji/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201013_hengtai/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201013_xiecheng/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201013_xiecheng/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201016_shiyuangufen/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201016_shiyuangufen/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201016_suning/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201018_qianxin/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201018_qianxin/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201019_xinhuasan/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201019_xinhuasan/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201021_kujiale/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201021_kujiale/Main_2$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/_2020/_20201021_kujiale/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/interview/inputoutput/Main_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/niuke/huawei/test1088888/Main_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/niuke/huawei/test1088888/Main_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/niuke/huawei/test1088888/Main_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/niuke/huawei/test710802/Main_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/niuke/huawei/test710802/Main_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/saima/StockGod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ02$ApiReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ02$ManualReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ03$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ04$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ14$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ15$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ16$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ17$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ18$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ22$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ24$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ25$RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ26$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ65.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goinhn/sworddirectoffer/JZ66.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/throwcode-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/bucket_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/heap_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/algorithm/sort/test_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../throwcode-python/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Goinhn/algorithm" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository\maven" />
+        <option name="mavenHome" value="D:\local\maven\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\local\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJpoGdIHR0wWR1DZ0612aHq8mI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31034482" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\throwcode" />
+      <recent name="D:\git\throwcode\target" />
+      <recent name="D:\git\practice\src\main\resources" />
+      <recent name="D:\git\practice\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.goinhn.algorithm.pruning" />
+      <recent name="com.goinhn.algorithm.datastructure.tree" />
+      <recent name="com.goinhn.algorithm.greedy" />
+      <recent name="com.goinhn.algorithm.recursion" />
+      <recent name="com.goinhn.algorithm.datastructure.linertable.hashtable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\practice\src\main\java\com\goinhn\algorithm\datastructure\graph" />
+      <recent name="D:\git\practice\src\main\java\com\goinhn\interview\_2020\_20201013_xiecheng" />
+      <recent name="D:\git\practice\src\main\java\com\goinhn\interview\_2020\_20201011_58tongcheng" />
+      <recent name="D:\git\practice\src\main\java\com\goinhn\interview\_20200927_weizhongyinhang" />
+      <recent name="D:\git\practice\src\main\java\com\goinhn\interview\_20200924_qunaer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExtDir">
+    <configuration name="ExtDir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goinhn.test.ExtDir" />
+      <module name="throwcode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goinhn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goinhn.test.Factories" />
+      <module name="throwcode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goinhn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goinhn.test.Test" />
+      <module name="throwcode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goinhn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goinhn.test.TestReg" />
+      <module name="throwcode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goinhn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goinhn.algorithm.sort.TestSort" />
+      <module name="throwcode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goinhn.algorithm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExtDir" />
+        <item itemvalue="Application.TestReg" />
+        <item itemvalue="Application.Factories" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a74f7c7-3338-452d-aca1-d95889cedd6e" name="Default Changelist" comment="" />
+      <created>1595946222965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595946222965</updated>
+      <workItem from="1595946225302" duration="4434000" />
+      <workItem from="1596032055483" duration="828000" />
+      <workItem from="1596033301248" duration="1313000" />
+      <workItem from="1596274359775" duration="3056000" />
+      <workItem from="1598081968735" duration="1008000" />
+      <workItem from="1598111964168" duration="2186000" />
+      <workItem from="1598150405186" duration="4792000" />
+      <workItem from="1598160798338" duration="6557000" />
+      <workItem from="1598189520690" duration="2587000" />
+      <workItem from="1598198016616" duration="4297000" />
+      <workItem from="1598202342783" duration="27000" />
+      <workItem from="1598238070763" duration="3378000" />
+      <workItem from="1598321848711" duration="6699000" />
+      <workItem from="1598335923744" duration="2843000" />
+      <workItem from="1598426989907" duration="9603000" />
+      <workItem from="1598444418331" duration="6376000" />
+      <workItem from="1598451330237" duration="136000" />
+      <workItem from="1598451489791" duration="1267000" />
+      <workItem from="1598452782147" duration="234000" />
+      <workItem from="1598453042933" duration="720000" />
+      <workItem from="1598455244445" duration="3259000" />
+      <workItem from="1598523349061" duration="8942000" />
+      <workItem from="1598581451497" duration="8174000" />
+      <workItem from="1598594045474" duration="12112000" />
+      <workItem from="1598637131787" duration="984000" />
+      <workItem from="1598638198049" duration="856000" />
+      <workItem from="1598668283925" duration="1939000" />
+      <workItem from="1599632341745" duration="558000" />
+      <workItem from="1599633493653" duration="1100000" />
+      <workItem from="1599702378450" duration="155000" />
+      <workItem from="1599750363731" duration="8695000" />
+      <workItem from="1599891949409" duration="5540000" />
+      <workItem from="1600088788827" duration="37000" />
+      <workItem from="1600101580989" duration="6756000" />
+      <workItem from="1600322900799" duration="6780000" />
+      <workItem from="1600603038521" duration="31000" />
+      <workItem from="1600607939708" duration="2600000" />
+      <workItem from="1600687885629" duration="2000" />
+      <workItem from="1600701393636" duration="8959000" />
+      <workItem from="1600861551610" duration="38000" />
+      <workItem from="1600944769031" duration="157000" />
+      <workItem from="1600956836492" duration="976000" />
+      <workItem from="1601095677982" duration="2010000" />
+      <workItem from="1601116676751" duration="34000" />
+      <workItem from="1601376118483" duration="283000" />
+      <workItem from="1601427355024" duration="958000" />
+      <workItem from="1601561998995" duration="1134000" />
+      <workItem from="1601606480023" duration="2801000" />
+      <workItem from="1601652299969" duration="3185000" />
+      <workItem from="1601696064156" duration="598000" />
+      <workItem from="1601708923731" duration="41000" />
+      <workItem from="1601708989410" duration="12232000" />
+      <workItem from="1601993583435" duration="9880000" />
+      <workItem from="1602145536475" duration="3031000" />
+      <workItem from="1602223652766" duration="2558000" />
+      <workItem from="1602236841452" duration="1255000" />
+      <workItem from="1602344388317" duration="2004000" />
+      <workItem from="1602402426392" duration="6000" />
+      <workItem from="1602403436158" duration="6000" />
+      <workItem from="1602434815845" duration="620000" />
+      <workItem from="1602522745050" duration="2000000" />
+      <workItem from="1602565218065" duration="39000" />
+      <workItem from="1602606214254" duration="570000" />
+      <workItem from="1602859065476" duration="2429000" />
+      <workItem from="1603012635243" duration="4408000" />
+      <workItem from="1603122615334" duration="1011000" />
+      <workItem from="1603283637726" duration="960000" />
+      <workItem from="1603345864691" duration="9092000" />
+      <workItem from="1603422061832" duration="7973000" />
+      <workItem from="1603545929257" duration="2107000" />
+      <workItem from="1604072526073" duration="157000" />
+      <workItem from="1604121979056" duration="652000" />
+      <workItem from="1604200908292" duration="3472000" />
+      <workItem from="1604740787013" duration="4127000" />
+      <workItem from="1604822914386" duration="3496000" />
+      <workItem from="1604919957411" duration="259000" />
+      <workItem from="1604920254372" duration="7574000" />
+      <workItem from="1605065922324" duration="3427000" />
+      <workItem from="1605185645258" duration="1092000" />
+      <workItem from="1605232050516" duration="5393000" />
+      <workItem from="1605360416951" duration="1290000" />
+      <workItem from="1605425224197" duration="2012000" />
+      <workItem from="1605597212077" duration="3546000" />
+      <workItem from="1605668071608" duration="4991000" />
+      <workItem from="1605840375795" duration="2848000" />
+      <workItem from="1605950299844" duration="686000" />
+      <workItem from="1606032110383" duration="6412000" />
+      <workItem from="1606043579475" duration="7342000" />
+      <workItem from="1606215959875" duration="5000" />
+      <workItem from="1606794050406" duration="1497000" />
+      <workItem from="1606869935633" duration="8062000" />
+      <workItem from="1606893004301" duration="12223000" />
+      <workItem from="1606977459204" duration="11593000" />
+      <workItem from="1607050684228" duration="8817000" />
+      <workItem from="1607072468001" duration="28000" />
+      <workItem from="1607075193147" duration="1996000" />
+      <workItem from="1607090850521" duration="7483000" />
+      <workItem from="1607149259838" duration="2495000" />
+      <workItem from="1607309512062" duration="9304000" />
+      <workItem from="1607400122148" duration="3369000" />
+      <workItem from="1607483791531" duration="19298000" />
+      <workItem from="1607565089967" duration="49000" />
+      <workItem from="1607851222015" duration="5543000" />
+      <workItem from="1607935718832" duration="8937000" />
+      <workItem from="1608020461522" duration="13781000" />
+      <workItem from="1608094119338" duration="9288000" />
+      <workItem from="1608185166709" duration="9196000" />
+      <workItem from="1608269513522" duration="9083000" />
+      <workItem from="1608368061671" duration="3354000" />
+      <workItem from="1608448980542" duration="2757000" />
+      <workItem from="1608560113244" duration="4182000" />
+      <workItem from="1608607614333" duration="3711000" />
+      <workItem from="1608714386505" duration="12527000" />
+      <workItem from="1608868936339" duration="4127000" />
+      <workItem from="1609560173926" duration="1322000" />
+      <workItem from="1609683427843" duration="118000" />
+      <workItem from="1609683688419" duration="1595000" />
+      <workItem from="1609688601304" duration="261000" />
+      <workItem from="1609688871803" duration="178000" />
+      <workItem from="1610382588014" duration="2706000" />
+      <workItem from="1610463167300" duration="851000" />
+      <workItem from="1610466449967" duration="80000" />
+      <workItem from="1610466739089" duration="964000" />
+      <workItem from="1611286381985" duration="1809000" />
+      <workItem from="1611739389160" duration="1106000" />
+      <workItem from="1614267634351" duration="328000" />
+      <workItem from="1614268023023" duration="5866000" />
+      <workItem from="1614587183501" duration="15386000" />
+      <workItem from="1615864907718" duration="8231000" />
+      <workItem from="1615951342964" duration="8080000" />
+      <workItem from="1616057995332" duration="1566000" />
+      <workItem from="1616313235755" duration="1700000" />
+      <workItem from="1617116467238" duration="3562000" />
+      <workItem from="1617167729466" duration="6055000" />
+      <workItem from="1617257189905" duration="3880000" />
+    </task>
+    <task id="LOCAL-00001" summary="likedList">
+      <created>1598596497658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598596497658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tree niuke">
+      <created>1598638310524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598638310524</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20200910test">
+      <created>1599757782834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599757782835</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tailong、wuduan">
+      <created>1600710717455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600710717455</updated>
+    </task>
+    <task id="LOCAL-00005" summary="the second interview begin">
+      <created>1602231516522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602231516523</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hengtai">
+      <created>1602606713585</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602606713585</updated>
+    </task>
+    <task id="LOCAL-00007" summary="qianxin">
+      <created>1603031526921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031526921</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xinhuasan">
+      <created>1603123600317</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603123600317</updated>
+    </task>
+    <task id="LOCAL-00009" summary="string&amp;&amp;linked">
+      <created>1607054747466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607054747466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="javaguide &amp;&amp; sworddirect">
+      <created>1607098575191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607098575191</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sword offer04">
+      <created>1607322879090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607322879090</updated>
+    </task>
+    <task id="LOCAL-00012" summary="jz09">
+      <created>1607410512785</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607410512785</updated>
+    </task>
+    <task id="LOCAL-00013" summary="jz23">
+      <created>1607862497271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607862497271</updated>
+    </task>
+    <task id="LOCAL-00014" summary="jz26">
+      <created>1607951284554</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607951284554</updated>
+    </task>
+    <task id="LOCAL-00015" summary="recover liner table">
+      <created>1608045059623</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608045059623</updated>
+    </task>
+    <task id="LOCAL-00016" summary="BFS&amp;&amp;DFS">
+      <created>1608732080741</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608732080741</updated>
+    </task>
+    <task id="LOCAL-00017" summary="BFS&amp;&amp;DFS min&amp;&amp;max depth">
+      <created>1608905796174</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608905796174</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new-code to java classic">
+      <created>1614268181793</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614268181793</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="likedList" />
+    <MESSAGE value="tree niuke" />
+    <MESSAGE value="20200910test" />
+    <MESSAGE value="tailong、wuduan" />
+    <MESSAGE value="the second interview begin" />
+    <MESSAGE value="hengtai" />
+    <MESSAGE value="qianxin" />
+    <MESSAGE value="xinhuasan" />
+    <MESSAGE value="string&amp;&amp;linked" />
+    <MESSAGE value="javaguide &amp;&amp; sworddirect" />
+    <MESSAGE value="sword offer04" />
+    <MESSAGE value="jz09" />
+    <MESSAGE value="jz23" />
+    <MESSAGE value="jz26" />
+    <MESSAGE value="recover liner table" />
+    <MESSAGE value="BFS&amp;&amp;DFS" />
+    <MESSAGE value="BFS&amp;&amp;DFS min&amp;&amp;max depth" />
+    <MESSAGE value="new-code to java classic" />
+    <option name="LAST_COMMIT_MESSAGE" value="new-code to java classic" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="0" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614268132484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2432" y="250" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609688832528" />
+    <state x="127" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1614268132484" />
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616313264912">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616313264912" />
+    <state x="2552" y="145" key="FileChooserDialogImpl" timestamp="1617117321618">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2552" y="145" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617117321618" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614311654309" />
+    <state width="1876" height="299" key="GridCell.Tab.0.bottom" timestamp="1617257571355">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="352" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1615905431189" />
+    <state width="1876" height="299" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617257571355" />
+    <state width="1236" height="317" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614353797295" />
+    <state width="1876" height="299" key="GridCell.Tab.0.center" timestamp="1617257571355">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="352" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1615905431188" />
+    <state width="1876" height="299" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617257571355" />
+    <state width="1236" height="317" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614353797295" />
+    <state width="1876" height="299" key="GridCell.Tab.0.left" timestamp="1617257571355">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="352" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1615905431188" />
+    <state width="1876" height="299" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617257571355" />
+    <state width="1236" height="317" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614353797295" />
+    <state width="1876" height="299" key="GridCell.Tab.0.right" timestamp="1617257571355">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="352" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1615905431189" />
+    <state width="1876" height="299" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617257571355" />
+    <state width="1236" height="317" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614353797295" />
+    <state x="2465" y="315" key="IDE.errors.dialog" timestamp="1617154468338">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="75" key="IDE.errors.dialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1615865365238" />
+    <state x="2465" y="315" key="IDE.errors.dialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617154468338" />
+    <state x="221" y="75" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1610382612666" />
+    <state x="123" y="0" width="914" height="680" key="SettingsEditor" timestamp="1616058497617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="123" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1616058497617" />
+    <state x="2104" y="170" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610467717264" />
+    <state x="123" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1614268119939" />
+    <state x="211" y="80" key="Vcs.Push.Dialog.v2" timestamp="1614268201229">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2441" y="294" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608732087702" />
+    <state x="211" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614268201229" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1617887937456">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617887937456" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
